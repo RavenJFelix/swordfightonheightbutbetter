@@ -1,0 +1,45 @@
+B R I C K  W O R K S H O P  V0.2.0.0
+
+0.19 0.06 0.02
+0.14 0.51 0.20 1
+0.17 0.08 0.47
+0
+100
+
+-8 -27 -302 38 34 289 0.87 0 0.05 1
+	+NAME brick0
+-45 -27 -266 38 34 289 0.87 0 0.05 1
+	+NAME brick0 - Copy
+-65 33 22 7 7 2 0.87 0 0.05 1
+	+NAME brick3
+-22 59 19 7 7 2 0.87 0 0.05 1
+	+NAME brick3 - Copy
+-38 75 21 7 7 2 0.87 0 0.05 1
+	+NAME brick3 - Copy
+-28 96 23 7 7 2 0.87 0 0.05 1
+	+NAME brick3 - Copy - Copy
+-33 20 22 7 7 2 0.87 0 0.05 1
+	+NAME brick3 - Copy
+-33 45 26 7 7 2 0.87 0 0.05 1
+	+NAME brick3 - Copy
+-22 11 21 7 7 2 0.87 0 0.05 1
+	+NAME brick3 - Copy - Copy
+-38 113 10 29 24 25 0.87 0 0.05 1
+	+NAME brick10
+	+ROT 270
+	+SHAPE slope
+-39 108 10 24 29 25 0.87 0 0.05 1
+	+NAME brick10 - Copy
+	+ROT 180
+	+SHAPE slope
+-3 147 92 4 4 4 0.87 0 0.05 1
+	+NAME brick12
+	+ROT 270
+-33 108 10 24 29 25 0.87 0 0.05 1
+	+NAME brick10 - Copy
+	+SHAPE slope
+-44 137 31 43 54 4 0.87 0 0.05 1
+	+NAME brick14
+-59 59 21 7 7 2 0.87 0 0.05 1
+	+NAME brick3 - Copy - Copy
+
