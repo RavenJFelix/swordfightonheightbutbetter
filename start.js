@@ -7,7 +7,7 @@ nh.startServer({
 
     local: false, // Whether or not your server is local
 
-    map: './maps/example.brk', // Your .brk file path
+    map: './maps/main.brk', // Your .brk file path
 
     scripts: './user_scripts', // Your .js files path
 
